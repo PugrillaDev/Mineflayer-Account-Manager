@@ -77,4 +77,4 @@ After the account selection, the application will start the Mineflayer bots and 
 - **Bot API**: The API allows you to manage and monitor bots once they are running.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
