@@ -31,6 +31,7 @@ mkdir -p lib/accounts
 ```
 
 3. Place your account files (either Microsoft `.json` files or Cookie `.txt` files) in the `lib/accounts` directory.
+   Note: The program will automatically create Microsoft account files.
 
 ### 3. Preparing Proxies
 
