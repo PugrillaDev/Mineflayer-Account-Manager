@@ -78,17 +78,3 @@ After the account selection, the application will start the Mineflayer bots and 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Key Points:
-1. **Setup**:
-   - Explains how to install dependencies with `npm install`.
-   - Guides users to create an `accounts` folder under `lib/accounts` for storing account data.
-
-2. **Proxies**:
-   - Instructions for setting up `proxies.txt` with the proper format.
-
-3. **Running the App**:
-   - How to start the application and interact with the proxy validation and account selection system.
-
-4. **Bot API**:
-   - Explains that the API will start along with the bots once the setup is complete.
