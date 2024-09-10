@@ -92,7 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 4. **Bot API**:
    - Explains that the API will start along with the bots once the setup is complete.
-
-This README will give users the essential information to run the application properly, as well as handle proxies and account management.
-
-Let me know if you need further adjustments!
